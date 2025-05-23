@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## 🚀 Hey there, fellow code explorer!<br><br>
-I'm Bhuvnesh! — full-stack spelunker of the terminal, lover of curly braces, and sworn protector of clean code.<br>
+I'm Bhuvnesh! — full-stack spelunker of the terminal, lover of curly braces, and sworn protector of clean code and yes... I use Arch, btw<br>
 When I'm not writing Go routines that probably should've been functions, I'm hacking away at dotfiles and bending Neovim to my will.<br><br>
 
 ### 🧠 My Stack of Sanity<br>
@@ -14,17 +14,19 @@ When I'm not writing Go routines that probably should've been functions, I'm hac
 - Dark mode is a lifestyle.<br>
 - If my editor can’t do it, it’s not worth doing.<br>
 - Terminal tabs are a lie. Use tmux.<br><br>
+- Arch Linux makes you a better person. Fight me.<br><br>
+
 
 ### 🛠 My Dotfiles are My Horcruxes<br>
 I put my soul in my config files. Check out my Neovim setup if you dare:<br>
-> ⚡ Powered by Lua, LSPs, Treesitter, and a bit too much caffeine.<br><br>
+> ⚡ Powered by Lua, LSPs, Treesitter, and a bit too much caffeine (on Arch).<br><br>
 
 ---<br><br>
 
 📬 **Talk code to me:**<br>
 Pull requests, plugin ideas, or just want to nerd out over terminal workflows? I'm all ears.<br><br>
 
-> May your builds pass and your keybinds never collide. 🧘‍♂️
+> May your builds pass, your keybinds never collide, and your system always boot after a `pacman -Syu`. 🧘‍♂️
 
 
 
