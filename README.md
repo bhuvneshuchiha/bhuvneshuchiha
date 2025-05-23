@@ -5,7 +5,7 @@ When I'm not writing Go routines that probably should've been functions, I'm hac
 
 ### 🧠 My Stack of Sanity<br>
 - 🐹 Go — For when performance *and* readability decide to be friends.<br>
-- 🌙 Lua — Because Neovim plugins won’t write themselves.<br>
+- 🌙 Lua — Because Neovim plugins won’t write themselves, and its fun to write games in Lua.<br>
 - 🐍 Python — My utility knife for scripting, scraping, and occasional wizardry.<br>
 - ⚡ JavaScript — Can confirm: it works on *my* machine.<br><br>
 
