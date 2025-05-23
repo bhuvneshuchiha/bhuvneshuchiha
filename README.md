@@ -13,7 +13,7 @@ When I'm not writing Go routines that probably should've been functions, I'm hac
 - `:w` is muscle memory.<br>
 - Dark mode is a lifestyle.<br>
 - If my editor can’t do it, it’s not worth doing.<br>
-- Terminal tabs are a lie. Use tmux.<br><br>
+- Terminal tabs are a lie. Use tmux.<br>
 - Arch Linux makes you a better person. Fight me.<br><br>
 
 
