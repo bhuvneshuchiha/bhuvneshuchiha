@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🚀 Hey there, fellow code explorer!<br><br>
+## 🚀Welcome to my Arch-powered realm of dotfiles, dark mode, and blazingly fast Neovim.<br><br>
 I'm Bhuvnesh! — full-stack spelunker of the terminal, lover of curly braces, and sworn protector of clean code.<br>
 When I'm not writing Go routines that probably should've been functions, I'm hacking away at dotfiles and bending Neovim to my will. And yes... I use Arch, btw!!<br><br>
 
