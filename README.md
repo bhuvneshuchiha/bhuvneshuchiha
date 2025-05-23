@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## 🚀 Hey there, fellow code explorer!<br><br>
-I'm Bhuvnesh! — full-stack spelunker of the terminal, lover of curly braces, and sworn protector of clean code and yes... I use Arch, btw.
-When I'm not writing Go routines that probably should've been functions, I'm hacking away at dotfiles and bending Neovim to my will.<br><br>
+I'm Bhuvnesh! — full-stack spelunker of the terminal, lover of curly braces, and sworn protector of clean code.<br>
+When I'm not writing Go routines that probably should've been functions, I'm hacking away at dotfiles and bending Neovim to my will. And yes... I use Arch, btw!!<br><br>
 
 ### 🧠 My Stack of Sanity<br>
 - 🐹 Go — For when performance *and* readability decide to be friends.<br>
